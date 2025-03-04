@@ -1,2 +1,2 @@
 # TMS320C6748_UART
-DAP TMS320C6748串口收发，使用FIFO+空闲中断方式接收不定长数据，使用DMA发送数据，减少UART模块的CPU占用
+DSP TMS320C6748串口收发，使用FIFO+空闲中断方式接收不定长数据，使用DMA发送数据，减少UART模块的CPU占用
